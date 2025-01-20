@@ -184,7 +184,7 @@ SRP_RESFINDER_FILE = 'resfinder.tab'
 # 每一个SRP项目对应的毒力基因文件名
 SRP_VFDB_FILE = 'vfdb.tab'
 
-# 每一个SRP项目对应的gtdbtk.bac120.summary文件名
+# 每一个SRP项目对应的gtdbtk.summary文件名
 GTDBTK_BAC120_SUMMARY_FILE = 'gtdbtk.summary.tsv'
 
 # 每一个SRP项目对应的metawrap_50_10_bins.stats文件名
